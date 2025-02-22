@@ -42,7 +42,7 @@
 
 #### *Sensors*
 * Text-based questions (user input)
-* Image recognition (for calorie counting or activity tracking via camera or scanner)
+* Image recognition (for calorie counting )
 
 #### *Environment Characteristics*
 * **Continuous:** Data is continuously updated as the user logs information, and goals are dynamically adjusted.
@@ -56,8 +56,8 @@
 * **Dynamic:** Goals may change based on user preferences or evolving circumstances.
 
 #### *Best Agent Architecture*
-* **Goal-Based Agent:** Makes decisions to achieve user-defined goals (e.g., completing a daily workout or staying within a calorie limit). It selects actions that bring the user closer to those goals.
-* **Utility-Based Agent:** Assigns utility values to different states (e.g., better sleep = higher utility) and recommends actions that maximize overall well-being and long-term fitness success.
+* **Goal-Based Agent:** Makes decisions to achieve user-defined goals (completing a daily workout or staying within a calorie limit). It selects actions that bring the user closer to those goals.
+* **Utility-Based Agent:** Assigns utility values to different states ( better sleep = higher utility) and recommends actions that maximize overall well-being and long-term fitness success.
 
 ---
 
@@ -77,7 +77,7 @@
 
 7. **True:** It is possible for an agent to be perfectly rational in two distinct task environments. For example, a random number generator might produce the correct value for some search solutions in different environments.
 
-Let me know if you want me to refine this further!
+
 
 
 

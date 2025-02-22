@@ -61,7 +61,7 @@
 
 ---
 
-### QUESTION 4: Assertions About Rational Agents
+### QUESTION 4:
 
 1. **True:** It cannot be rational all the time, especially if unobservable information plays an important part. For example, a taxi driver agent cannot observe the back view and doesn’t see a motorcycle speeding up and changing lanes. If the agent changes lanes at that time, it would not be rational.
 

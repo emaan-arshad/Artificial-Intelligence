@@ -1,6 +1,16 @@
 ###  QUESTION 01:
 
+Back in 1950, Turing sparked a conversation that still gets people talking today: can machines really think? He put forward his famous Turing Test and tackled several objections to the idea of machine intelligence. Even now, some of these objections hold water, while others seem less convincing in light of how far technology has come.
 
+ * One of the objections that still feels relevant is the idea that machines can only follow strict, pre-set rules—so they can never capture the messy, unpredictable way humans behave. Critics say that because our actions are so fluid and influenced by feelings, a machine will always fall short. Turing argued that behind our seemingly informal behavior are natural laws that, in theory, a machine could mimic. While I find his point interesting, many still worry that mimicking behavior doesn’t equate to true understanding or consciousness. And that doubt lingers.
+
+* Another objection comes from the realm of mathematics and logic—specifically, Gödel’s incompleteness theorems. Some believe that these results show there are limits to what any formal system (including a computer) can do, meaning a machine will always miss out on some aspects of human intuition. Turing’s reply was that humans are not perfect either, and we have our own blind spots. This response is thought-provoking, but it doesn’t completely erase the feeling that there’s something special about human insight that machines just can’t capture.
+
+* Since Turing’s time, we’ve seen amazing developments in AI—think of language models and deep learning. These advances bring fresh objections. Modern AI is fantastic at spotting patterns and generating text that sounds human, but it’s still just crunching numbers and following statistical trends. It doesn’t “understand” in the way people do. There’s also growing concern over issues like bias and transparency in AI systems, which add a new layer to the debate on machine intelligence and ethics.
+
+* Turing also predicted that by the year 2000, a computer would have a 30% chance of fooling an unskilled interrogator during a five-minute Turing Test. While it might sound modest today, his prediction was surprisingly on track in some situations. Today’s chatbots can often pass as human in short interactions, but their success is usually limited to certain topics or contexts. They still struggle with deep, sustained conversation and don’t really “understand” what they’re saying. So while Turing’s estimate captured a slice of reality, it also reminds us that passing a test is only one piece of the puzzle when it comes to genuine intelligence.
+
+In the end, Turing’s paper continues to challenge and inspire us. The objections he discussed—whether about the limits of formal rules, the quirks of human consciousness, or the challenges of real understanding—remain part of our conversation about AI. His refutations push us to think differently, even if they don’t completely settle the matter. And as technology marches on, new questions and concerns emerge, making it clear that the journey to truly intelligent machines is as much about philosophy and ethics as it is about engineering.
 
 
 

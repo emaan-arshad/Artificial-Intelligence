@@ -1,0 +1,6 @@
+mall_id,mall_name,location,total_area_sqft,stores_count,annual_revenue_million,parking_spaces
+1,Mall A,City Center,200000,50,50,500
+2,Mall B,Suburbs,150000,35,40,300
+3,Mall C,Downtown,180000,40,45,350
+4,Mall D,Near Airport,220000,55,60,600
+5,Mall E,Shopping District,170000,45,55,450
